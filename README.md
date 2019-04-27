@@ -11,7 +11,7 @@ This is a simple example application that implements JWT Authentication. It expo
 First clone the repo:
 
 ```bash
-$ git clone http://github.com/php-jwt-authentication-example.git
+$ git clone https://github.com/techiediaries/php-jwt-authentication-example.git
 ```
 
 Next, navigate inside the project's folder and run the following command to start the server:
