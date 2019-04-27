@@ -6,6 +6,8 @@ This is a simple example application that implements JWT Authentication. It expo
 - `api/register.php`
 - `api/protected.php`
 
+For detailed steps check out this [tutorial](https://www.techiediaries.com/php-jwt-authentication-tutorial/).
+
 ## How to Run This App
 
 First clone the repo:
