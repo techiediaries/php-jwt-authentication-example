@@ -18,6 +18,7 @@ Next, navigate inside the project's folder and run the following command to star
 
 ```bash
 $ cd php-jwt-authentication-example
+$ composer install
 $ php -S 127.0.0.1:8000
 ```
 
